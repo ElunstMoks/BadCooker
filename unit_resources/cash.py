@@ -1,0 +1,2 @@
+class Cash(int):
+    pass
